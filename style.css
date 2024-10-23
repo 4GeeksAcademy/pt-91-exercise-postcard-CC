@@ -28,7 +28,7 @@ body{
 }
 .header{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 .header h1 {
     font-size: 50px;
@@ -48,7 +48,7 @@ body{
     input{
         border: 0;
         margin-bottom: 4px;
-        
+        font-family:'Comic Sans MS', sans-serif;
 
     }
 .button button{
